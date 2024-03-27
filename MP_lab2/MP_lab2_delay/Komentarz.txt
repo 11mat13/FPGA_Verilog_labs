@@ -1,0 +1,1 @@
+Linia opóźniająca po przesymulowaniu działa zgodnie z założeniami. W sytuacji, gdy DELAY=0, linia przepisuje wartość z wejścia na wyjście i nie wprowadza opóźnienia. Dla wartości DELAY zarówno parzystych, jak i nieparzystych uzyskuje się zdefiniowaną parametrem wielkość opóźnienia liczoną w taktach zegara.

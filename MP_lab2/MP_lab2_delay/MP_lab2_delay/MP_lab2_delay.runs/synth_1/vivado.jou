@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Mar 14 10:09:46 2024
+# Process ID: 14792
+# Current directory: C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab2/MP_lab2_delay/MP_lab2_delay/MP_lab2_delay.runs/synth_1
+# Command line: vivado.exe -log delay_line.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source delay_line.tcl
+# Log file: C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab2/MP_lab2_delay/MP_lab2_delay/MP_lab2_delay.runs/synth_1/delay_line.vds
+# Journal file: C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab2/MP_lab2_delay/MP_lab2_delay/MP_lab2_delay.runs/synth_1\vivado.jou
+# Running On: LAPTOP-GB8TBGJK, OS: Windows, CPU Frequency: 2895 MHz, CPU Physical cores: 16, Host memory: 16556 MB
+#-----------------------------------------------------------
+source delay_line.tcl -notrace

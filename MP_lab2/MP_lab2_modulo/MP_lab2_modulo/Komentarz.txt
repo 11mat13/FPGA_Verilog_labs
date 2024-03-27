@@ -1,0 +1,1 @@
+Licznik modulo N wymagał przeliczenia liczby naturalnej N na szerokość słowa bitowego. Licznik osiągnięto w oparciu o dwa flip-flopy typu D oraz dwie tablice LUT. Przetestowano licznik dla N równego 4 i 8. W obu przypadkach działanie licznika było poprawne.

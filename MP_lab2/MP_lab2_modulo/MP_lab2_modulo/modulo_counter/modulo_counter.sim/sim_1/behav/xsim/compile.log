@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab2/MP_lab2_modulo/MP_lab2_modulo/modulo_counter/modulo_counter.srcs/sources_1/new/modulo_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module modulo_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab2/MP_lab2_modulo/MP_lab2_modulo/modulo_counter/modulo_counter.srcs/sim_1/new/tb_modulo_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stimulate
+INFO: [VRFC 10-311] analyzing module tb_modulo_counter

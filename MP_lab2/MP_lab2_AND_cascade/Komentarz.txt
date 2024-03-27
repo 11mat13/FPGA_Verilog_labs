@@ -1,0 +1,1 @@
+Udało się zaimplementować kaskadę bramek AND. Na wyjściu y "1" pojawia się jedynie w momencie, gdy wszystkie wejścia wektora x są równe "1". Zgodnie z schematem syntezy możemy stwierdzić, że bramki AND zostały zsyntezowane w oparciu o dwie LUT - jedną czterowejściową, drugą pięciowejściową. Tym samym efektywnie układ obu elementów działa jak 8 wejściowa tablica LUT.

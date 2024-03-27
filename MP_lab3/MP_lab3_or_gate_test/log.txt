@@ -1,0 +1,8 @@
+Error: counter value: 0000010000. Expected 1, but 0 occured.
+Error: counter value: 0000100000. Expected 1, but 0 occured.
+Error: counter value: 0010000000. Expected 1, but 0 occured.
+Error: counter value: 0010010000. Expected 1, but 0 occured.
+Error: counter value: 0010100000. Expected 1, but 0 occured.
+Error: counter value: 0100000000. Expected 1, but 0 occured.
+Error: counter value: 0100010000. Expected 1, but 0 occured.
+Error: counter value: 0100100000. Expected 1, but 0 occured.

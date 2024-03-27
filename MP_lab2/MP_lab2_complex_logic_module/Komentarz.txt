@@ -1,0 +1,19 @@
+Zaprojektowano moduł zgodnie z założeniami z zadania. W tym celu stworzono 3 moduły:
+
+- moduł pojedynczej bramki (AND lub OR w zależności od parametru "mode"), 
+- moduł pojedynczej "warstwy" bramek tego samego typu,
+- modułu całej kaskady.
+
+Zgodnie z przedstawionym w plikach schematem udało się uzyskać parametryzowalną (HEIGHT) strukturę kolejnych warstw poczynając od bramki OR. Przetestowano ją dla wysokości jak w treści zadania. 
+
+Ponieważ, aby na wyjściu pojawiła się "1" logiczna, jedna z dwóch bramek AND w warstwie powyżej musi zostać aktywowana. Aby to nastąpiło aktywności musi ulec któraś z pośród dwóch grup bramek OR, a to z kolei wymaga aby w najwyższej warstwie bramek w którejś z dwóch grup (4 górnych i 4 dolnych bramek AND) nastąpiła aktywacja dwóch bramek AND (jednej z górnej części bloku i jednej z dolnej części bloku).
+
+Na symulacji mamy 4 przypadki:
+
+- wszystkie sygnały wejściowe x i y są równe "0", co implikuje "0" na wyjściu,
+
+- "1" w sygnałach wejściowych występują parami (co powoduje, że sygnał zatrzymuje się po przejściu przez przez bramki OR z wyjściami wyprowadzonymi na AND - jedna z bramek OR daje "0", co powoduje "0" na bramce AND),
+
+- naprzemiennie "0"/"1" na obu wejściach x i y. Dzięki temu aktywacji ulega co druga bramka AND w górnej warstwie, co powoduje, że wszystkie bramki OR w kolejnej warstwie ulegają aktywacji implikując "1" do końca na wszystkich wyjściach kolejnych bramek,
+
+-  połowa "0" i połowa "1" w sygnałach wejściowych. Pozwala to uaktywnić jedną z dwóch bramek AND w przedostatniej warstwie i tym samym uaktywnić bramkę OR na wyjściu całego układu.
