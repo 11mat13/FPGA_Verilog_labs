@@ -1,6 +1,6 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
-"../../../../../../../../../../Downloads/state_machine.v" \
+"../../../../../../../../../../../Downloads/state_machine.v" \
 "../../../../state_machine.srcs/sim_1/new/tb_state_machine.v" \
 
 # compile glbl module

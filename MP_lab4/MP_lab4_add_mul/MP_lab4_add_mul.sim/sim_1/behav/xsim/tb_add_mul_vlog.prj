@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../MP_lab4_add_mul.srcs/sources_1/new/add_mul.v" \
+"../../../../MP_lab4_add_mul.srcs/sources_1/new/delay_line.v" \
+"../../../../MP_lab4_add_mul.srcs/sources_1/new/delay_module.v" \
+"../../../../MP_lab4_add_mul.srcs/sim_1/new/tb_add_mul.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_arithmetic_module_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_arithmetic_module" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="85.500 ns"></ZoomStartTime>
+      <ZoomEndTime time="101.771 ns"></ZoomEndTime>
+      <Cursor1Time time="2,201,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="344"></NameColumnWidth>
+      <ValueColumnWidth column_width="164"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="28" />
+   <wvobject fp_name="/tb_arithmetic_module/clk_wire" type="logic">
+      <obj_property name="ElementShortName">clk_wire</obj_property>
+      <obj_property name="ObjectShortName">clk_wire</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/ce_wire" type="logic">
+      <obj_property name="ElementShortName">ce_wire</obj_property>
+      <obj_property name="ObjectShortName">ce_wire</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/AB_wire" type="array">
+      <obj_property name="ElementShortName">AB_wire[18:0]</obj_property>
+      <obj_property name="ObjectShortName">AB_wire[18:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/DE_wire" type="array">
+      <obj_property name="ElementShortName">DE_wire[14:0]</obj_property>
+      <obj_property name="ObjectShortName">DE_wire[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/EF_wire" type="array">
+      <obj_property name="ElementShortName">EF_wire[19:0]</obj_property>
+      <obj_property name="ObjectShortName">EF_wire[19:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/ABC_wire" type="array">
+      <obj_property name="ElementShortName">ABC_wire[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ABC_wire[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/DEF_wire" type="array">
+      <obj_property name="ElementShortName">DEF_wire[38:0]</obj_property>
+      <obj_property name="ObjectShortName">DEF_wire[38:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/AB_reg" type="array">
+      <obj_property name="ElementShortName">AB_reg[18:0]</obj_property>
+      <obj_property name="ObjectShortName">AB_reg[18:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/DE_reg" type="array">
+      <obj_property name="ElementShortName">DE_reg[14:0]</obj_property>
+      <obj_property name="ObjectShortName">DE_reg[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/EF_reg" type="array">
+      <obj_property name="ElementShortName">EF_reg[19:0]</obj_property>
+      <obj_property name="ObjectShortName">EF_reg[19:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/ABC_reg" type="array">
+      <obj_property name="ElementShortName">ABC_reg[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ABC_reg[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/DEF_reg" type="array">
+      <obj_property name="ElementShortName">DEF_reg[38:0]</obj_property>
+      <obj_property name="ObjectShortName">DEF_reg[38:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/Y_reg" type="array">
+      <obj_property name="ElementShortName">Y_reg[39:0]</obj_property>
+      <obj_property name="ObjectShortName">Y_reg[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/A_wire" type="array">
+      <obj_property name="ElementShortName">A_wire[17:0]</obj_property>
+      <obj_property name="ObjectShortName">A_wire[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/B_wire" type="array">
+      <obj_property name="ElementShortName">B_wire[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B_wire[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/C_wire" type="array">
+      <obj_property name="ElementShortName">C_wire[11:0]</obj_property>
+      <obj_property name="ObjectShortName">C_wire[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/D_wire" type="array">
+      <obj_property name="ElementShortName">D_wire[7:0]</obj_property>
+      <obj_property name="ObjectShortName">D_wire[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/E_wire" type="array">
+      <obj_property name="ElementShortName">E_wire[13:0]</obj_property>
+      <obj_property name="ObjectShortName">E_wire[13:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/F_wire" type="array">
+      <obj_property name="ElementShortName">F_wire[18:0]</obj_property>
+      <obj_property name="ObjectShortName">F_wire[18:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/Y_wire" type="array">
+      <obj_property name="ElementShortName">Y_wire[39:0]</obj_property>
+      <obj_property name="ObjectShortName">Y_wire[39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/A_reg" type="array">
+      <obj_property name="ElementShortName">A_reg[17:0]</obj_property>
+      <obj_property name="ObjectShortName">A_reg[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/B_reg" type="array">
+      <obj_property name="ElementShortName">B_reg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B_reg[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/C_reg" type="array">
+      <obj_property name="ElementShortName">C_reg[11:0]</obj_property>
+      <obj_property name="ObjectShortName">C_reg[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/D_reg" type="array">
+      <obj_property name="ElementShortName">D_reg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">D_reg[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/E_reg" type="array">
+      <obj_property name="ElementShortName">E_reg[13:0]</obj_property>
+      <obj_property name="ObjectShortName">E_reg[13:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/F_reg" type="array">
+      <obj_property name="ElementShortName">F_reg[18:0]</obj_property>
+      <obj_property name="ObjectShortName">F_reg[18:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/ce_reg" type="logic">
+      <obj_property name="ElementShortName">ce_reg</obj_property>
+      <obj_property name="ObjectShortName">ce_reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_arithmetic_module/file" type="array">
+      <obj_property name="ElementShortName">file[31:0]</obj_property>
+      <obj_property name="ObjectShortName">file[31:0]</obj_property>
+   </wvobject>
+</wave_config>

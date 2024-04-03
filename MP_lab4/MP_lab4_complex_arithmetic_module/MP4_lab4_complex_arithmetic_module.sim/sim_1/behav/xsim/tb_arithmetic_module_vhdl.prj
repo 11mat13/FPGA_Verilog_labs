@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../MP4_lab4_complex_arithmetic_module.gen/sources_1/ip/c_add_ABCDEF/sim/c_add_ABCDEF.vhd" \
+"../../../../MP4_lab4_complex_arithmetic_module.gen/sources_1/ip/mult_DEF/sim/mult_DEF.vhd" \
+"../../../../MP4_lab4_complex_arithmetic_module.gen/sources_1/ip/c_add_EF/sim/c_add_EF.vhd" \
+"../../../../MP4_lab4_complex_arithmetic_module.gen/sources_1/ip/c_add_DE/sim/c_add_DE.vhd" \
+"../../../../MP4_lab4_complex_arithmetic_module.gen/sources_1/ip/mult_ABC/sim/mult_ABC.vhd" \
+"../../../../MP4_lab4_complex_arithmetic_module.gen/sources_1/ip/c_add_AB/sim/c_add_AB.vhd" \
+
+# Do not sort compile order
+nosort

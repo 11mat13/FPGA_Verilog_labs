@@ -53,10 +53,10 @@ always @(posedge clk) begin
         end
         STATE2: begin
             if (counter < 7) begin
-                reg_data[counter] <= rxd;
+                reg_data[7-counter] <= rxd;
                 counter <= counter + 1;
             end else begin
-                reg_data[counter] <= rxd;
+                reg_data[7-counter] <= rxd;
                 counter <= 0;
                 state <= STATE3;
             end

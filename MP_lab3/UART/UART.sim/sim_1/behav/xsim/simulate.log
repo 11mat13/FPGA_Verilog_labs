@@ -128,4 +128,4 @@ bit value:           0
 bit value:           0
 bit value:           1
 Error: improper start bit.
-$finish called at time : 387 ns : File "C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/UART/UART.srcs/sim_1/new/tb_UART.v" Line 73
+$finish called at time : 387 ns : File "C:/Users/Mateusz/Desktop/studia/AiR/SR/FPGA_Verilog_labs/MP_lab3/UART/UART.srcs/sim_1/new/tb_UART.v" Line 73

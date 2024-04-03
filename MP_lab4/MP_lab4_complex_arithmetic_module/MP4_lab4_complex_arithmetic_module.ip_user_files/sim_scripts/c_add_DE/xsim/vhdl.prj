@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../MP4_lab4_complex_arithmetic_module.gen/sources_1/ip/c_add_DE/sim/c_add_DE.vhd" \
+
+nosort

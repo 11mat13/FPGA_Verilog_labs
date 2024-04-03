@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1711368556" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/state_machine.dcp">
+<GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1711624709" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/state_machine.dcp">
   <File Type="PA-TCL" Name="state_machine.tcl"/>
   <File Type="RDS-PROPCONSTRS" Name="state_machine_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="state_machine_reports.tcl"/>
@@ -11,7 +11,7 @@
   <File Type="VDS-TIMING-PB" Name="state_machine_timing_summary_synth.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
-    <File Path="$PPRDIR/../../../../../../Downloads/state_machine.v">
+    <File Path="$PPRDIR/../../../../../../../Downloads/state_machine.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>

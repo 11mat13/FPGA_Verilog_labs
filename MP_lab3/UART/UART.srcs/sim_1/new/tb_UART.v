@@ -48,7 +48,7 @@ reg [4:0] state = 0;
 reg stop_flag = 0;
 
 initial begin
-    file = $fopen("C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/Python_ASCII_generation/input.txt", "rb");
+    file = $fopen("C:/Users/Mateusz/Desktop/studia/AiR/SR/FPGA_Verilog_labs/MP_lab3/Python_ASCII_generation/input.txt", "rb");
     if (file == 0) begin
         $display("Error: file not found");
         $finish;
@@ -82,7 +82,7 @@ always @ (posedge clk) begin
             char_from_file = $fgetc(file);
             char_from_file = char_from_file - 48;
             $display("bit value: %d", char_from_file);
-            r8_data[i] <= char_from_file;
+            r8_data[7-i] <= char_from_file;
             i = i + 1;
             state <= state + 1;
         end

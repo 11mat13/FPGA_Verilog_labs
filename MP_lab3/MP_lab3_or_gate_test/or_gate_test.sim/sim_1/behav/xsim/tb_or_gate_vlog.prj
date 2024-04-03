@@ -1,6 +1,6 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
-"../../../../../../../../../../Downloads/or_gate.v" \
+"../../../../../../../../../../../Downloads/or_gate.v" \
 "../../../../or_gate_test.srcs/sim_1/new/tb_or_gate.v" \
 
 # compile glbl module

@@ -1,12 +1,21 @@
 Time resolution is 1 ps
+WARNING: file C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/or_gate_test/log.txt could not be opened
 counter value: 0000000000
-$stop called at time : 2 ns : File "C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/or_gate_test/or_gate_test.srcs/sim_1/new/tb_or_gate.v" Line 67
+$stop called at time : 2 ns : File "C:/Users/Mateusz/Desktop/studia/AiR/SR/FPGA_Verilog_labs/MP_lab3/MP_lab3_or_gate_test/or_gate_test.srcs/sim_1/new/tb_or_gate.v" Line 67
+WARNING: file C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/or_gate_test/log.txt could not be opened
 counter value: 0000010000
+WARNING: file C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/or_gate_test/log.txt could not be opened
 counter value: 0000100000
+WARNING: file C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/or_gate_test/log.txt could not be opened
 counter value: 0010000000
+WARNING: file C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/or_gate_test/log.txt could not be opened
 counter value: 0010010000
+WARNING: file C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/or_gate_test/log.txt could not be opened
 counter value: 0010100000
+WARNING: file C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/or_gate_test/log.txt could not be opened
 counter value: 0100000000
+WARNING: file C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/or_gate_test/log.txt could not be opened
 counter value: 0100010000
+WARNING: file C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/or_gate_test/log.txt could not be opened
 counter value: 0100100000
-$finish called at time : 2047 ns : File "C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/or_gate_test/or_gate_test.srcs/sim_1/new/tb_or_gate.v" Line 51
+$finish called at time : 2047 ns : File "C:/Users/Mateusz/Desktop/studia/AiR/SR/FPGA_Verilog_labs/MP_lab3/MP_lab3_or_gate_test/or_gate_test.srcs/sim_1/new/tb_or_gate.v" Line 51

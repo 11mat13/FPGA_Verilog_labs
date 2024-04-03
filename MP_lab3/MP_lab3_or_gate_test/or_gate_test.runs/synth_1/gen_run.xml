@@ -8,7 +8,7 @@
   <File Type="RDS-DCP" Name="or_gate.dcp"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
-    <File Path="$PPRDIR/../../../../../../Downloads/or_gate.v">
+    <File Path="$PPRDIR/../../../../../../../Downloads/or_gate.v">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>

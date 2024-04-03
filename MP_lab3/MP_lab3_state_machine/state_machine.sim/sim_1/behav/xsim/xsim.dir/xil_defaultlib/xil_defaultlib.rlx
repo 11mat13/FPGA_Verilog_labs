@@ -2,6 +2,6 @@
 2020.2
 Oct 14 2022
 05:20:55
-C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/state_machine/state_machine.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
-C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/state_machine/state_machine.srcs/sim_1/new/tb_state_machine.v,1711368550,verilog,,,,clock;load_file;save_file;tb_state_machine,,,,,,,,
-C:/Users/Mateusz/Downloads/state_machine.v,1710968370,verilog,,C:/Users/Mateusz/Desktop/studia/AiR/SR/MP_lab3/state_machine/state_machine.srcs/sim_1/new/tb_state_machine.v,,state_machine,,,,,,,,
+C:/Users/Mateusz/Desktop/studia/AiR/SR/FPGA_Verilog_labs/MP_lab3/MP_lab3_state_machine/state_machine.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/Mateusz/Desktop/studia/AiR/SR/FPGA_Verilog_labs/MP_lab3/MP_lab3_state_machine/state_machine.srcs/sim_1/new/tb_state_machine.v,1711616903,verilog,,,,clock;load_file;save_file;tb_state_machine,,,,,,,,
+C:/Users/Mateusz/Downloads/state_machine.v,1711616412,verilog,,C:/Users/Mateusz/Desktop/studia/AiR/SR/FPGA_Verilog_labs/MP_lab3/MP_lab3_state_machine/state_machine.srcs/sim_1/new/tb_state_machine.v,,state_machine,,,,,,,,

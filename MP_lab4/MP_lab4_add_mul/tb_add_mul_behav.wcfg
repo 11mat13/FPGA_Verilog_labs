@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_add_mul_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_add_mul" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="27.251 ns"></ZoomEndTime>
+      <Cursor1Time time="180.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="166"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/tb_add_mul/A" type="array">
+      <obj_property name="ElementShortName">A[6:0]</obj_property>
+      <obj_property name="ObjectShortName">A[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_add_mul/B" type="array">
+      <obj_property name="ElementShortName">B[6:0]</obj_property>
+      <obj_property name="ObjectShortName">B[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_add_mul/C" type="array">
+      <obj_property name="ElementShortName">C[6:0]</obj_property>
+      <obj_property name="ObjectShortName">C[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_add_mul/clk_wire" type="logic">
+      <obj_property name="ElementShortName">clk_wire</obj_property>
+      <obj_property name="ObjectShortName">clk_wire</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_add_mul/ce_wire" type="logic">
+      <obj_property name="ElementShortName">ce_wire</obj_property>
+      <obj_property name="ObjectShortName">ce_wire</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_add_mul/A_wire" type="array">
+      <obj_property name="ElementShortName">A_wire[6:0]</obj_property>
+      <obj_property name="ObjectShortName">A_wire[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_add_mul/B_wire" type="array">
+      <obj_property name="ElementShortName">B_wire[6:0]</obj_property>
+      <obj_property name="ObjectShortName">B_wire[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_add_mul/C_wire" type="array">
+      <obj_property name="ElementShortName">C_wire[6:0]</obj_property>
+      <obj_property name="ObjectShortName">C_wire[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_add_mul/Y_wire" type="array">
+      <obj_property name="ElementShortName">Y_wire[14:0]</obj_property>
+      <obj_property name="ObjectShortName">Y_wire[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_add_mul/n" type="array">
+      <obj_property name="ElementShortName">n[31:0]</obj_property>
+      <obj_property name="ObjectShortName">n[31:0]</obj_property>
+   </wvobject>
+</wave_config>

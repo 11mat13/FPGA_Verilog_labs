@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_UART_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_UART" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="185.301 ns"></ZoomEndTime>
+      <Cursor1Time time="387.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="166"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/tb_UART/data" type="array">
+      <obj_property name="ElementShortName">data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_UART/data_received" type="array">
+      <obj_property name="ElementShortName">data_received[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_received[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_UART/send" type="logic">
+      <obj_property name="ElementShortName">send</obj_property>
+      <obj_property name="ObjectShortName">send</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_UART/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_UART/rtxd" type="logic">
+      <obj_property name="ElementShortName">rtxd</obj_property>
+      <obj_property name="ObjectShortName">rtxd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_UART/received" type="logic">
+      <obj_property name="ElementShortName">received</obj_property>
+      <obj_property name="ObjectShortName">received</obj_property>
+   </wvobject>
+</wave_config>
