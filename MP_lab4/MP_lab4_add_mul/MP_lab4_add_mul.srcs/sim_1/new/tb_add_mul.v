@@ -44,7 +44,7 @@ module tb_add_mul(
     
     initial begin
         A <= 7'b0010110;
-        B <= 7'b0011010;
+        B <= 7'b1011010;
         C <= 7'b0001110;
     end
     

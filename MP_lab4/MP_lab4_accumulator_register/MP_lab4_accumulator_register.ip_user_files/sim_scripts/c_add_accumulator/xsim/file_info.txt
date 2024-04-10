@@ -1,0 +1,1 @@
+c_add_accumulator.vhd,vhdl,xil_defaultlib,../../../../MP_lab4_accumulator_register.gen/sources_1/ip/c_add_accumulator/sim/c_add_accumulator.vhd,

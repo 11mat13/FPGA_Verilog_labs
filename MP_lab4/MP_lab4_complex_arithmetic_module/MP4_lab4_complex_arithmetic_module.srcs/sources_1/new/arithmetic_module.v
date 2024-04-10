@@ -111,7 +111,7 @@ module arithmetic_module(
     // latency: 2
     // A: 34 bits long (z15c16u + 00)
     // B: 39 bits long (z20c18u)
-    // S: 40 bits long 
+    // S: 40 bits long (z21c18u)
     c_add_ABCDEF adder_ABCDEF (.CLK(clk_wire),
                                .CE(ce_wire),
                                .A({ABC_wire, 2'b00}),

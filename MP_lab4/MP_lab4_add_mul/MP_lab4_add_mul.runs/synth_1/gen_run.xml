@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1712085798" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/add_mul.dcp">
   <File Type="PA-TCL" Name="add_mul.tcl"/>
-  <File Type="RDS-PROPCONSTRS" Name="add_mul_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="add_mul_reports.tcl"/>
   <File Type="RDS-RDS" Name="add_mul.vds"/>
   <File Type="RDS-UTIL" Name="add_mul_utilization_synth.rpt"/>
   <File Type="RDS-UTIL-PB" Name="add_mul_utilization_synth.pb"/>
   <File Type="RDS-DCP" Name="add_mul.dcp"/>
-  <File Type="VDS-TIMINGSUMMARY" Name="add_mul_timing_summary_synth.rpt"/>
-  <File Type="VDS-TIMING-PB" Name="add_mul_timing_summary_synth.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/delay_line.v">
@@ -65,9 +62,7 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2022">
-      <Desc>Vivado Synthesis Defaults</Desc>
-    </StratHandle>
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2022"/>
     <Step Id="synth_design"/>
   </Strategy>
   <BlockFileSet Type="BlockSrcs" Name="c_addsub_0"/>
